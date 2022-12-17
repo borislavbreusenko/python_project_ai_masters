@@ -8,6 +8,7 @@ from private_consts import BOT_TOKEN
 # TODO: recomendations
 # TODO: link to film
 # TODO: use db for user & film info
+# TODO: docker
 
 
 SERVER_URL = 'http://0.0.0.0:5000/'
